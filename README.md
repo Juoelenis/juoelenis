@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://crusher8010.io)
+![sebi 017](https://github.com/user-attachments/assets/54ba1df6-fb37-4131-99c8-63d8708e4fe4)
+
 <h1 align="center">Hi 👋, I'm JuoG Elenis (aka. datG)</h1>
 <h3 align="center">a C++ and Web dev from eastern EU</h3>
 

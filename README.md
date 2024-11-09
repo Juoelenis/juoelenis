@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crusher8010&label=Profile%20views&color=0e75b6&style=flat" alt="crusher8010" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Juoelenis&label=Profile%20views&color=0e75b6&style=flat" alt="Juoelenis" /> </p>
 
 - 🌱 I’m currently learning **Erlang!**
 

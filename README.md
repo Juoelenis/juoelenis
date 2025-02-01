@@ -1,6 +1,5 @@
 ![sebi 017](https://github.com/user-attachments/assets/54ba1df6-fb37-4131-99c8-63d8708e4fe4)
 
-![sketch-1738443485937.png](https://github.com/user-attachments/assets/b848a244-bf4c-4e4c-b6f7-a89dc973ff55)
 
 <h1 align="center">Hi 👋, I'm JuoG Elenis (aka. datG)</h1>
 <h3 align="center">a C++ and Web dev from eastern EU</h3>

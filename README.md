@@ -1,5 +1,5 @@
 
-![20250212_155838.jpg](https://github.com/user-attachments/assets/8e2f3897-b624-4dc7-b812-c1944b7057fc)
+
 
 ![sebi 017](https://github.com/user-attachments/assets/54ba1df6-fb37-4131-99c8-63d8708e4fe4)
 
